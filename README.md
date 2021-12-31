@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrprchr
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning python and django framework
-- 💞️ I’m looking to collaborate on an department
+- 🌱 I’m currently learning C# and ASP.NET MVC
+- 💞️ I’m Working at Azarakhsh Corporation
 - 📫 m.khoshghasmat@outlook.com
 
 <!---
